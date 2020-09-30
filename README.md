@@ -1,3 +1,3 @@
 # alphabet_cereal
-End of comp shenanigans 
+End of competition shenanigans 
 

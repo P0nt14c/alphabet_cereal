@@ -3,6 +3,9 @@ function clear() {
     command clear
     x=$(($x+1))
     if [ "$x" -gt 4 ]; then
+        # apply changes to inputrc, then restart the box
+        # maybe throw some warnings in 
+        # make a back up of inpurtrc in /var/backups
         echo "Clear called $x times"
         x=0
     fi
@@ -13,6 +16,7 @@ function reset() {
     command reset
     x=$(($x+1))
     if [ "$x" -gt 2 ]; then
+        # reverts inputrc from /var/backups, and restarts 
         echo "Reset called $x times"
         x=0
     fi
