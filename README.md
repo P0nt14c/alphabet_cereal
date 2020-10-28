@@ -1,5 +1,6 @@
 # alphabet_cereal
-<h1>End of competition shenanigans </h1>
+End of competition shenanigans
+
 <h2>Useage</h2>
 Deploy the dropper.sh file onto any ubuntu distro
 Run the dropper.sh file to activate alphabet_cereal
