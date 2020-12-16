@@ -3,6 +3,7 @@ End of competition shenanigans
 
 <h2>Useage</h2>
 Deploy the dropper.sh file onto any ubuntu distro
+
 Run the dropper.sh file to activate alphabet_cereal
 
 <h2>Activation</h2>
